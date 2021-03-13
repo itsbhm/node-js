@@ -1,0 +1,11 @@
+Note:
+
+npm init
+npm install express
+npm install nodemon
+npx nodemon app.js
+npm install morgan
+npm i dotenv
+npm i mongoose
+npm i body-parser
+npm i express-validator
